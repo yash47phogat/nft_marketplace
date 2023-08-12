@@ -14,9 +14,10 @@ Send and recieve tokens , funds, bonds and crypto using a welll known crypto wal
 
 View all the transactions coherently using brilliant and aesthetically pleasing NFT gifs on a blockchain server .
 
-Convert any of the existing crypto-currency to some another verified ledger or crypto currency (in -progrss !)
+Convert any of the existing crypto-currency to some another verified ledger or crypto currency (in -progress !)
 
 E-mail - aryanstudent7171@gmail.com
+         yashphogat3000@gmail.com
 
 
 Feel free and  most welcomed to contribute !!!
